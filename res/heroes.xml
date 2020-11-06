@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<heroes>
+  <hero id="1" name="韩信" type="刺客">
+    <attribute sex="男">
+      啦啦啦啦啦
+    </attribute>
+  </hero>
+  <hero id="1" name="韩信" type="刺客"/>
+  <hero id="1" name="韩信" type="刺客"/>
+  <hero id="1" name="韩信" type="刺客"/>
+  <hero id="1" name="韩信" type="刺客"/>
+</heroes>

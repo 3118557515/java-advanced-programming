@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<heros>
+    <hero id="1" name="Galen" blood="3000" >
+        <attack>
+            大宝剑NiuBi
+        </attack>
+    </hero>
+</heros>
